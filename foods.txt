@@ -13,7 +13,6 @@ Drinks
 1. Mango Tango (Strawberry/Mango Smoothie)
 2. Sprite
 3. Chug Jug
-4. Milkshakes
 
 
 Desserts
@@ -23,3 +22,6 @@ Desserts
 3. Rasmali
 4. Choco bar
 5. Ice Cream Sandwich
+
+fruits
+Mango
